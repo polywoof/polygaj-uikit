@@ -2215,22 +2215,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/polygaj",
-            },
-            {
-                label: "Spanish",
-                href: "https://t.me/polygajspanish",
-            },
-            {
-                label: "Announcements",
-                href: "https://t.me/polygajANN",
-            },
+                href: "https://t.me/polywoof",
+            }
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/polygaj",
+        href: "https://twitter.com/polywoof_token",
     },
 ];
 var MENU_HEIGHT = 64;
